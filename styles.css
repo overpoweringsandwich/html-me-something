@@ -1,0 +1,42 @@
+h2:first-child {
+    color: black;
+    font-weight: bold;
+    font-family: Cambria;
+
+
+}
+
+p:nth-child(2){
+    font-family:"Comic Sans MS"
+
+}
+
+article {
+    text-align: center;
+
+
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-color: black;
+}
+
+#mainheader {
+    font: bolder;
+    font-family: Calibri;
+    text-align: center;
+    font-size: 300%;
+
+}
+
+#image {
+    background-image: url("Pictures/Chitown1.jpg");
+
+
+
+
+}
