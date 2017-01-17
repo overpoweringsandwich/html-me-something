@@ -1,4 +1,4 @@
-h2:first-child {
+h2 {
     color: black;
     font-weight: bold;
     font-family: Cambria;
@@ -6,7 +6,7 @@ h2:first-child {
 
 }
 
-p:nth-child(2){
+p  {
     font-family:"Comic Sans MS"
 
 }
